@@ -1,0 +1,41 @@
+﻿@model Return_Order_Portal.Models.ProcessResponse
+
+@{ ViewData["Title"] = "ProcessResponse"; }
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Please confirm your order!</h1>
+    <table>
+        <tr>
+            <td>@Html.Label("Request Id")</td>
+            <td></td>
+            <td>@Html.Display("RequestId")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Processing Charge")</td>
+            <td></td>
+            <td>@Html.Display("ProcessingCharge")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("PackagingAndDeliveryCharge")</td>
+            <td></td>
+            <td>@Html.Display("PackagingAndDeliveryCharge")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("DateOfDelivery")</td>
+            <td></td>
+            <td>@Html.Display("DateOfDelivery")</td>
+        </tr>
+
+    </table>
+
+    <div class="btn btn-outline-success"> <a asp-controller="User" asp-action="Confirmation">Confirm</a></div>
+
+
+</body>
+</html>

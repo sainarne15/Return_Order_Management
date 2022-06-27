@@ -1,0 +1,279 @@
+INFO  03:16:36 Application started. Press Ctrl+C to shut down.
+INFO  03:16:36 Application started. Press Ctrl+C to shut down.
+INFO  03:16:36 Hosting environment: Development
+INFO  03:16:36 Hosting environment: Development
+INFO  03:16:36 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:16:36 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:24:38 Application started. Press Ctrl+C to shut down.
+INFO  03:24:38 Application started. Press Ctrl+C to shut down.
+INFO  03:24:38 Hosting environment: Development
+INFO  03:24:38 Hosting environment: Development
+INFO  03:24:38 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:24:38 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:24:54 Login initiated
+INFO  03:25:09 Authentication initiated
+INFO  03:25:12 Authorization URI invoked http://52.141.211.78/api
+INFO  03:25:12 Token recieved From Authentication MicroService
+INFO  03:25:12 Authentication Successful And Login Completed
+INFO  03:27:29 Application started. Press Ctrl+C to shut down.
+INFO  03:27:29 Application started. Press Ctrl+C to shut down.
+INFO  03:27:29 Hosting environment: Development
+INFO  03:27:29 Hosting environment: Development
+INFO  03:27:29 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:27:29 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:27:36 Login initiated
+INFO  03:27:42 Authentication initiated
+INFO  03:27:42 Authorization URI invoked http://52.141.211.78/api
+INFO  03:27:42 Token recieved From Authentication MicroService
+INFO  03:27:42 Authentication Successful And Login Completed
+INFO  03:27:53 Login initiated
+INFO  03:27:57 Authentication initiated
+INFO  03:27:57 Authorization URI invoked http://52.141.211.78/api
+INFO  03:27:57 Token recieved From Authentication MicroService
+INFO  03:27:57 Login Failed
+INFO  03:28:03 Login initiated
+INFO  03:29:21 Application started. Press Ctrl+C to shut down.
+INFO  03:29:21 Application started. Press Ctrl+C to shut down.
+INFO  03:29:21 Hosting environment: Development
+INFO  03:29:21 Hosting environment: Development
+INFO  03:29:21 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:29:21 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  03:29:21 Login initiated
+INFO  03:29:30 Authentication initiated
+INFO  03:29:31 Authorization URI invoked http://52.141.211.78/api
+INFO  03:29:31 Token recieved From Authentication MicroService
+INFO  03:29:31 Authentication Successful And Login Completed
+INFO  05:13:26 Application started. Press Ctrl+C to shut down.
+INFO  05:13:26 Application started. Press Ctrl+C to shut down.
+INFO  05:13:26 Hosting environment: Development
+INFO  05:13:26 Hosting environment: Development
+INFO  05:13:26 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:13:26 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:13:27 Login initiated
+INFO  05:20:16 Application started. Press Ctrl+C to shut down.
+INFO  05:20:16 Application started. Press Ctrl+C to shut down.
+INFO  05:20:16 Hosting environment: Development
+INFO  05:20:16 Hosting environment: Development
+INFO  05:20:16 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:20:16 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:20:16 Login initiated
+INFO  05:21:25 Application started. Press Ctrl+C to shut down.
+INFO  05:21:25 Application started. Press Ctrl+C to shut down.
+INFO  05:21:25 Hosting environment: Development
+INFO  05:21:25 Hosting environment: Development
+INFO  05:21:25 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:21:25 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:21:25 Login initiated
+INFO  05:25:07 Application started. Press Ctrl+C to shut down.
+INFO  05:25:07 Application started. Press Ctrl+C to shut down.
+INFO  05:25:07 Hosting environment: Development
+INFO  05:25:07 Hosting environment: Development
+INFO  05:25:07 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:25:07 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:25:07 Login initiated
+INFO  05:28:34 Application started. Press Ctrl+C to shut down.
+INFO  05:28:34 Application started. Press Ctrl+C to shut down.
+INFO  05:28:34 Hosting environment: Development
+INFO  05:28:34 Hosting environment: Development
+INFO  05:28:34 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:28:34 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:28:34 Login initiated
+INFO  05:31:10 Application started. Press Ctrl+C to shut down.
+INFO  05:31:10 Application started. Press Ctrl+C to shut down.
+INFO  05:31:10 Hosting environment: Development
+INFO  05:31:10 Hosting environment: Development
+INFO  05:31:10 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:31:10 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:31:10 Login initiated
+INFO  05:38:05 Application started. Press Ctrl+C to shut down.
+INFO  05:38:05 Application started. Press Ctrl+C to shut down.
+INFO  05:38:05 Hosting environment: Development
+INFO  05:38:05 Hosting environment: Development
+INFO  05:38:05 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:38:05 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:38:05 Login initiated
+INFO  05:38:51 Application started. Press Ctrl+C to shut down.
+INFO  05:38:51 Application started. Press Ctrl+C to shut down.
+INFO  05:38:51 Hosting environment: Development
+INFO  05:38:51 Hosting environment: Development
+INFO  05:38:51 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:38:51 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:38:52 Login initiated
+INFO  05:39:06 Authentication initiated
+INFO  05:39:08 Authorization URI invoked http://52.141.211.78/api
+INFO  05:39:08 Token recieved From Authentication MicroService
+INFO  05:39:08 Authentication Successful And Login Completed
+INFO  05:39:49 Login initiated
+INFO  05:45:13 Application started. Press Ctrl+C to shut down.
+INFO  05:45:13 Application started. Press Ctrl+C to shut down.
+INFO  05:45:13 Hosting environment: Development
+INFO  05:45:13 Hosting environment: Development
+INFO  05:45:13 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:45:13 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:45:13 Login initiated
+INFO  05:46:54 Application started. Press Ctrl+C to shut down.
+INFO  05:46:54 Application started. Press Ctrl+C to shut down.
+INFO  05:46:54 Hosting environment: Development
+INFO  05:46:54 Hosting environment: Development
+INFO  05:46:54 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:46:54 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:46:54 Login initiated
+INFO  05:52:18 Application started. Press Ctrl+C to shut down.
+INFO  05:52:18 Application started. Press Ctrl+C to shut down.
+INFO  05:52:18 Hosting environment: Development
+INFO  05:52:18 Hosting environment: Development
+INFO  05:52:18 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:52:18 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  05:52:18 Login initiated
+ERROR 05:52:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The following sections have been defined but have not been rendered by the page at '/Views/Shared/_Layout.cshtml': 'head'. To ignore an unrendered section call IgnoreSection("sectionName").
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.EnsureRenderedBodyOrSections()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:52:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The following sections have been defined but have not been rendered by the page at '/Views/Shared/_Layout.cshtml': 'head'. To ignore an unrendered section call IgnoreSection("sectionName").
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.EnsureRenderedBodyOrSections()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:29:16 Application started. Press Ctrl+C to shut down.
+INFO  10:29:16 Application started. Press Ctrl+C to shut down.
+INFO  10:29:16 Hosting environment: Development
+INFO  10:29:16 Hosting environment: Development
+INFO  10:29:16 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:29:16 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:29:16 Login initiated
+INFO  10:29:33 Authentication initiated
+INFO  10:29:35 Authentication initiated
+INFO  10:29:37 Authorization URI invoked http://52.141.211.78/api
+INFO  10:29:37 Token recieved From Authentication MicroService
+INFO  10:29:37 Authentication Successful And Login Completed
+INFO  10:29:37 Authorization URI invoked http://52.141.211.78/api
+INFO  10:29:37 Token recieved From Authentication MicroService
+INFO  10:29:37 Authentication Successful And Login Completed
+INFO  10:30:14 ComponentProcessingMicroservice initiated
+INFO  10:30:14 Token added to header
+INFO  10:30:14 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:30:18 Response Received From Component Microservice
+INFO  10:30:19 Exception In Component ActionResult
+INFO  10:33:41 Application started. Press Ctrl+C to shut down.
+INFO  10:33:41 Application started. Press Ctrl+C to shut down.
+INFO  10:33:41 Hosting environment: Development
+INFO  10:33:41 Hosting environment: Development
+INFO  10:33:41 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:33:41 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:33:42 Login initiated
+INFO  10:33:56 Authentication initiated
+INFO  10:33:56 Authorization URI invoked http://52.141.211.78/api
+INFO  10:33:56 Token recieved From Authentication MicroService
+INFO  10:33:56 Authentication Successful And Login Completed
+INFO  10:34:30 ComponentProcessingMicroservice initiated
+INFO  10:34:30 Token added to header
+INFO  10:34:30 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:34:31 Response Received From Component Microservice
+INFO  10:34:31 Exception In Component ActionResult
+INFO  10:37:34 Application started. Press Ctrl+C to shut down.
+INFO  10:37:34 Application started. Press Ctrl+C to shut down.
+INFO  10:37:34 Hosting environment: Development
+INFO  10:37:34 Hosting environment: Development
+INFO  10:37:34 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:37:34 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:37:34 Login initiated
+INFO  10:37:46 Authentication initiated
+INFO  10:37:46 Authorization URI invoked http://52.141.211.78/api
+INFO  10:37:46 Token recieved From Authentication MicroService
+INFO  10:37:46 Authentication Successful And Login Completed
+INFO  10:38:19 ComponentProcessingMicroservice initiated
+INFO  10:38:19 Token added to header
+INFO  10:38:19 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:38:19 Response Received From Component Microservice
+INFO  10:38:19 Exception In Component ActionResult
+INFO  10:42:39 Application started. Press Ctrl+C to shut down.
+INFO  10:42:39 Application started. Press Ctrl+C to shut down.
+INFO  10:42:39 Hosting environment: Development
+INFO  10:42:39 Hosting environment: Development
+INFO  10:42:39 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:42:39 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:42:40 Login initiated
+INFO  10:43:02 Authentication initiated
+INFO  10:43:03 Authorization URI invoked http://52.141.211.78/api
+INFO  10:43:03 Token recieved From Authentication MicroService
+INFO  10:43:03 Authentication Successful And Login Completed
+INFO  10:43:26 ComponentProcessingMicroservice initiated
+INFO  10:43:26 Token added to header
+INFO  10:43:26 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:43:27 Response Received From Component Microservice
+INFO  10:43:27 Exception In Component ActionResult
+INFO  02:03:32 Application started. Press Ctrl+C to shut down.
+INFO  02:03:32 Application started. Press Ctrl+C to shut down.
+INFO  02:03:32 Hosting environment: Development
+INFO  02:03:32 Hosting environment: Development
+INFO  02:03:32 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  02:03:32 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  02:03:32 Login initiated
+INFO  02:03:46 Authentication initiated
+INFO  02:03:48 Authorization URI invoked http://52.141.211.78/api
+INFO  02:03:48 Token recieved From Authentication MicroService
+INFO  02:03:48 Authentication Successful And Login Completed
+INFO  02:04:27 ComponentProcessingMicroservice initiated
+INFO  02:04:27 Token added to header
+INFO  02:04:27 Component Microservice uri invoked http://52.154.250.90/api
+INFO  02:04:28 Response Received From Component Microservice
+INFO  02:04:29 Exception In Component ActionResult
+INFO  02:11:10 Application started. Press Ctrl+C to shut down.
+INFO  02:11:10 Application started. Press Ctrl+C to shut down.
+INFO  02:11:10 Hosting environment: Development
+INFO  02:11:10 Hosting environment: Development
+INFO  02:11:10 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  02:11:10 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  02:11:10 Login initiated
+INFO  02:11:22 Authentication initiated
+INFO  02:11:23 Authorization URI invoked http://52.141.211.78/api
+INFO  02:11:23 Token recieved From Authentication MicroService
+INFO  02:11:23 Authentication Successful And Login Completed
+INFO  02:11:48 ComponentProcessingMicroservice initiated
+INFO  02:11:48 Token added to header
+INFO  02:11:48 Component Microservice uri invoked http://52.154.250.90/api
+INFO  02:11:48 Response Received From Component Microservice
+INFO  02:11:49 Exception In Component ActionResult

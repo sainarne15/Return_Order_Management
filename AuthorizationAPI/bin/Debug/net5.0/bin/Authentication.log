@@ -1,0 +1,380 @@
+INFO  04:00:21 Application started. Press Ctrl+C to shut down.
+INFO  04:00:21 Application started. Press Ctrl+C to shut down.
+INFO  04:00:21 Hosting environment: Development
+INFO  04:00:21 Hosting environment: Development
+INFO  04:00:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+INFO  04:00:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+WARN  04:00:41 Failed to determine the https port for redirect.
+WARN  04:00:41 Failed to determine the https port for redirect.
+INFO  04:00:42 Login initiated!
+INFO  04:00:42 Validating the User!
+INFO  04:00:51 Login initiated!
+INFO  04:00:51 Validating the User!
+INFO  04:00:51 Token Is Generated!
+INFO  01:22:13 Application started. Press Ctrl+C to shut down.
+INFO  01:22:13 Application started. Press Ctrl+C to shut down.
+INFO  01:22:13 Hosting environment: Development
+INFO  01:22:13 Hosting environment: Development
+INFO  01:22:13 Content root path: F:\VsFilesSai\AuthorizationAPI
+INFO  01:22:13 Content root path: F:\VsFilesSai\AuthorizationAPI
+WARN  01:23:05 Failed to determine the https port for redirect.
+WARN  01:23:05 Failed to determine the https port for redirect.
+INFO  03:14:21 Application started. Press Ctrl+C to shut down.
+INFO  03:14:21 Application started. Press Ctrl+C to shut down.
+INFO  03:14:21 Hosting environment: Development
+INFO  03:14:21 Hosting environment: Development
+INFO  03:14:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+INFO  03:14:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+WARN  03:14:31 Failed to determine the https port for redirect.
+WARN  03:14:31 Failed to determine the https port for redirect.
+INFO  03:14:32 Login initiated!
+INFO  03:14:32 Validating the User!
+INFO  03:25:12 Login initiated!
+INFO  03:25:12 Validating the User!
+INFO  03:25:12 Token Is Generated!
+INFO  03:27:42 Login initiated!
+INFO  03:27:42 Validating the User!
+INFO  03:27:42 Token Is Generated!
+INFO  03:27:57 Login initiated!
+INFO  03:27:57 Validating the User!
+INFO  03:29:31 Login initiated!
+INFO  03:29:31 Validating the User!
+INFO  03:29:31 Token Is Generated!
+INFO  05:39:08 Login initiated!
+INFO  05:39:08 Validating the User!
+INFO  05:39:08 Token Is Generated!
+INFO  09:52:13 Application started. Press Ctrl+C to shut down.
+INFO  09:52:13 Application started. Press Ctrl+C to shut down.
+INFO  09:52:13 Hosting environment: Development
+INFO  09:52:13 Hosting environment: Development
+INFO  09:52:13 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  09:52:13 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  09:52:25 Failed to determine the https port for redirect.
+WARN  09:52:25 Failed to determine the https port for redirect.
+INFO  09:52:26 Login initiated!
+INFO  09:52:26 Validating the User!
+INFO  12:05:38 Login initiated!
+INFO  12:05:38 Validating the User!
+INFO  12:05:38 Token Is Generated!
+INFO  12:07:32 Login initiated!
+INFO  12:07:32 Validating the User!
+INFO  12:07:32 Token Is Generated!
+INFO  12:08:32 Login initiated!
+INFO  12:08:32 Validating the User!
+INFO  12:08:32 Token Is Generated!
+INFO  08:51:41 Application started. Press Ctrl+C to shut down.
+INFO  08:51:41 Application started. Press Ctrl+C to shut down.
+INFO  08:51:41 Hosting environment: Development
+INFO  08:51:41 Hosting environment: Development
+INFO  08:51:41 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  08:51:41 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  09:10:35 Failed to determine the https port for redirect.
+WARN  09:10:35 Failed to determine the https port for redirect.
+INFO  09:10:36 Login initiated!
+INFO  09:10:36 Validating the User!
+INFO  09:10:36 Token Is Generated!
+INFO  09:22:42 Login initiated!
+INFO  09:22:42 Validating the User!
+INFO  09:22:42 Token Is Generated!
+INFO  09:26:58 Login initiated!
+INFO  09:26:58 Validating the User!
+INFO  09:26:58 Token Is Generated!
+INFO  09:33:13 Login initiated!
+INFO  09:33:13 Validating the User!
+INFO  09:33:13 Token Is Generated!
+INFO  09:35:10 Login initiated!
+INFO  09:35:10 Validating the User!
+INFO  09:35:10 Token Is Generated!
+INFO  09:36:45 Login initiated!
+INFO  09:36:45 Validating the User!
+INFO  09:36:45 Token Is Generated!
+INFO  09:38:10 Login initiated!
+INFO  09:38:10 Validating the User!
+INFO  09:38:10 Token Is Generated!
+INFO  09:41:29 Login initiated!
+INFO  09:41:29 Validating the User!
+INFO  09:41:29 Token Is Generated!
+INFO  09:55:32 Login initiated!
+INFO  09:55:32 Validating the User!
+INFO  09:55:32 Token Is Generated!
+INFO  09:58:04 Login initiated!
+INFO  09:58:04 Validating the User!
+INFO  09:58:04 Token Is Generated!
+INFO  10:00:46 Login initiated!
+INFO  10:00:46 Validating the User!
+INFO  10:00:46 Token Is Generated!
+INFO  10:08:11 Login initiated!
+INFO  10:08:11 Validating the User!
+INFO  10:08:11 Token Is Generated!
+INFO  10:10:09 Login initiated!
+INFO  10:10:09 Validating the User!
+INFO  10:10:09 Token Is Generated!
+INFO  10:12:54 Login initiated!
+INFO  10:12:54 Validating the User!
+INFO  10:12:54 Token Is Generated!
+INFO  10:17:14 Login initiated!
+INFO  10:17:14 Validating the User!
+INFO  10:17:14 Token Is Generated!
+INFO  10:20:11 Login initiated!
+INFO  10:20:11 Validating the User!
+INFO  10:20:11 Token Is Generated!
+INFO  10:21:49 Login initiated!
+INFO  10:21:49 Validating the User!
+INFO  10:21:49 Token Is Generated!
+INFO  10:27:13 Login initiated!
+INFO  10:27:13 Validating the User!
+INFO  10:27:13 Token Is Generated!
+INFO  10:30:59 Login initiated!
+INFO  10:30:59 Validating the User!
+INFO  10:30:59 Token Is Generated!
+INFO  10:35:55 Login initiated!
+INFO  10:35:55 Validating the User!
+INFO  10:35:55 Token Is Generated!
+INFO  10:37:07 Login initiated!
+INFO  10:37:07 Validating the User!
+INFO  10:37:07 Token Is Generated!
+INFO  10:38:41 Login initiated!
+INFO  10:38:41 Validating the User!
+INFO  10:38:41 Token Is Generated!
+INFO  10:42:26 Login initiated!
+INFO  10:42:26 Validating the User!
+INFO  10:42:26 Token Is Generated!
+INFO  10:47:11 Login initiated!
+INFO  10:47:11 Validating the User!
+INFO  10:47:11 Token Is Generated!
+INFO  10:51:56 Login initiated!
+INFO  10:51:56 Validating the User!
+INFO  10:51:56 Token Is Generated!
+INFO  11:25:25 Login initiated!
+INFO  11:25:25 Validating the User!
+INFO  11:25:25 Token Is Generated!
+INFO  11:30:31 Login initiated!
+INFO  11:30:31 Validating the User!
+INFO  11:30:31 Token Is Generated!
+INFO  11:39:18 Login initiated!
+INFO  11:39:18 Validating the User!
+INFO  11:39:18 Token Is Generated!
+INFO  11:40:43 Login initiated!
+INFO  11:40:43 Validating the User!
+INFO  11:40:43 Token Is Generated!
+INFO  11:43:28 Login initiated!
+INFO  11:43:28 Validating the User!
+INFO  11:43:28 Token Is Generated!
+INFO  11:45:06 Login initiated!
+INFO  11:45:06 Validating the User!
+INFO  11:45:06 Token Is Generated!
+INFO  11:48:09 Login initiated!
+INFO  11:48:09 Validating the User!
+INFO  11:48:09 Token Is Generated!
+INFO  11:51:54 Login initiated!
+INFO  11:51:54 Validating the User!
+INFO  11:51:54 Token Is Generated!
+INFO  11:52:54 Login initiated!
+INFO  11:52:54 Validating the User!
+INFO  11:52:54 Token Is Generated!
+INFO  11:57:56 Login initiated!
+INFO  11:57:56 Validating the User!
+INFO  11:57:56 Token Is Generated!
+INFO  12:03:53 Login initiated!
+INFO  12:03:53 Validating the User!
+INFO  12:03:53 Token Is Generated!
+INFO  12:19:14 Login initiated!
+INFO  12:19:14 Validating the User!
+INFO  12:19:14 Token Is Generated!
+INFO  12:46:30 Application started. Press Ctrl+C to shut down.
+INFO  12:46:30 Application started. Press Ctrl+C to shut down.
+INFO  12:46:30 Hosting environment: Development
+INFO  12:46:30 Hosting environment: Development
+INFO  12:46:30 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  12:46:30 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  12:50:27 Failed to determine the https port for redirect.
+WARN  12:50:27 Failed to determine the https port for redirect.
+INFO  12:50:27 Login initiated!
+INFO  12:50:27 Validating the User!
+INFO  12:50:27 Token Is Generated!
+INFO  02:17:26 Application started. Press Ctrl+C to shut down.
+INFO  02:17:26 Application started. Press Ctrl+C to shut down.
+INFO  02:17:26 Hosting environment: Development
+INFO  02:17:26 Hosting environment: Development
+INFO  02:17:26 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  02:17:26 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  02:41:45 Failed to determine the https port for redirect.
+WARN  02:41:45 Failed to determine the https port for redirect.
+INFO  02:41:47 Login initiated!
+INFO  02:41:47 Validating the User!
+INFO  02:41:47 Token Is Generated!
+INFO  02:51:24 Login initiated!
+INFO  02:51:24 Validating the User!
+INFO  02:51:24 Token Is Generated!
+INFO  02:54:16 Login initiated!
+INFO  02:54:16 Validating the User!
+INFO  02:54:16 Token Is Generated!
+INFO  02:56:26 Login initiated!
+INFO  02:56:26 Validating the User!
+INFO  02:56:26 Token Is Generated!
+INFO  03:01:12 Login initiated!
+INFO  03:01:12 Validating the User!
+INFO  03:01:12 Token Is Generated!
+INFO  07:45:31 Application started. Press Ctrl+C to shut down.
+INFO  07:45:31 Application started. Press Ctrl+C to shut down.
+INFO  07:45:31 Hosting environment: Development
+INFO  07:45:31 Hosting environment: Development
+INFO  07:45:31 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  07:45:31 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  07:46:05 Failed to determine the https port for redirect.
+WARN  07:46:05 Failed to determine the https port for redirect.
+INFO  07:46:06 Login initiated!
+INFO  07:46:06 Validating the User!
+INFO  07:46:06 Token Is Generated!
+INFO  09:46:41 Application started. Press Ctrl+C to shut down.
+INFO  09:46:41 Application started. Press Ctrl+C to shut down.
+INFO  09:46:41 Hosting environment: Development
+INFO  09:46:41 Hosting environment: Development
+INFO  09:46:41 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+INFO  09:46:41 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+WARN  09:47:57 Failed to determine the https port for redirect.
+WARN  09:47:57 Failed to determine the https port for redirect.
+INFO  09:48:27 Login initiated!
+INFO  09:48:27 Login initiated!
+INFO  09:48:27 Validating the User!
+INFO  09:48:27 Validating the User!
+INFO  09:48:53 Login initiated!
+INFO  09:48:53 Validating the User!
+INFO  09:48:53 Token Is Generated!
+INFO  10:03:35 Login initiated!
+INFO  10:03:35 Validating the User!
+INFO  10:03:45 Login initiated!
+INFO  10:03:45 Validating the User!
+INFO  10:03:45 Token Is Generated!
+INFO  10:09:08 Login initiated!
+INFO  10:09:08 Validating the User!
+INFO  10:09:08 Token Is Generated!
+INFO  10:09:56 Login initiated!
+INFO  10:09:56 Validating the User!
+INFO  10:09:56 Token Is Generated!
+INFO  10:11:07 Login initiated!
+INFO  10:11:07 Validating the User!
+INFO  10:11:07 Token Is Generated!
+INFO  10:11:40 Login initiated!
+INFO  10:11:40 Validating the User!
+INFO  10:11:40 Token Is Generated!
+INFO  10:12:46 Login initiated!
+INFO  10:12:46 Validating the User!
+INFO  10:12:46 Token Is Generated!
+INFO  10:15:50 Login initiated!
+INFO  10:15:50 Validating the User!
+INFO  10:15:50 Token Is Generated!
+INFO  10:17:35 Login initiated!
+INFO  10:17:35 Validating the User!
+INFO  10:17:35 Token Is Generated!
+INFO  10:20:47 Login initiated!
+INFO  10:20:47 Validating the User!
+INFO  10:20:47 Token Is Generated!
+INFO  10:24:52 Login initiated!
+INFO  10:24:52 Validating the User!
+INFO  10:24:52 Token Is Generated!
+INFO  10:27:23 Login initiated!
+INFO  10:27:23 Validating the User!
+INFO  10:27:23 Token Is Generated!
+INFO  10:29:12 Login initiated!
+INFO  10:29:12 Validating the User!
+INFO  10:29:12 Token Is Generated!
+INFO  10:31:22 Login initiated!
+INFO  10:31:22 Validating the User!
+INFO  10:31:22 Token Is Generated!
+INFO  10:40:24 Login initiated!
+INFO  10:40:24 Validating the User!
+INFO  10:40:24 Token Is Generated!
+INFO  10:44:31 Login initiated!
+INFO  10:44:31 Validating the User!
+INFO  10:44:31 Token Is Generated!
+INFO  10:50:02 Login initiated!
+INFO  10:50:02 Validating the User!
+INFO  10:50:02 Token Is Generated!
+INFO  10:58:20 Login initiated!
+INFO  10:58:20 Validating the User!
+INFO  10:58:20 Token Is Generated!
+INFO  11:13:35 Login initiated!
+INFO  11:13:35 Validating the User!
+INFO  11:13:35 Token Is Generated!
+INFO  11:15:33 Login initiated!
+INFO  11:15:33 Validating the User!
+INFO  11:15:33 Token Is Generated!
+INFO  11:16:56 Login initiated!
+INFO  11:16:56 Validating the User!
+INFO  11:16:56 Token Is Generated!
+INFO  11:17:34 Login initiated!
+INFO  11:17:34 Validating the User!
+INFO  11:17:34 Token Is Generated!
+INFO  11:18:34 Login initiated!
+INFO  11:18:34 Validating the User!
+INFO  11:18:34 Token Is Generated!
+INFO  11:27:55 Login initiated!
+INFO  11:27:55 Validating the User!
+INFO  11:27:55 Token Is Generated!
+INFO  11:47:51 Login initiated!
+INFO  11:47:51 Validating the User!
+INFO  11:47:51 Token Is Generated!
+INFO  11:53:46 Login initiated!
+INFO  11:53:46 Validating the User!
+INFO  11:53:46 Token Is Generated!
+INFO  11:59:16 Login initiated!
+INFO  11:59:16 Validating the User!
+INFO  11:59:16 Token Is Generated!
+INFO  12:02:46 Login initiated!
+INFO  12:02:46 Validating the User!
+INFO  12:02:46 Token Is Generated!
+INFO  12:03:32 Login initiated!
+INFO  12:03:32 Validating the User!
+INFO  12:03:32 Token Is Generated!
+INFO  12:06:47 Login initiated!
+INFO  12:06:47 Validating the User!
+INFO  12:06:47 Token Is Generated!
+INFO  05:32:28 Application started. Press Ctrl+C to shut down.
+INFO  05:32:28 Application started. Press Ctrl+C to shut down.
+INFO  05:32:28 Hosting environment: Development
+INFO  05:32:28 Hosting environment: Development
+INFO  05:32:28 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+INFO  05:32:28 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+WARN  05:35:07 Failed to determine the https port for redirect.
+WARN  05:35:07 Failed to determine the https port for redirect.
+INFO  05:35:07 Login initiated!
+INFO  05:35:07 Validating the User!
+INFO  05:35:07 Token Is Generated!
+INFO  05:45:28 Login initiated!
+INFO  05:45:28 Validating the User!
+INFO  05:45:47 Login initiated!
+INFO  05:45:47 Validating the User!
+INFO  05:45:47 Token Is Generated!
+INFO  06:02:26 Login initiated!
+INFO  06:02:26 Validating the User!
+INFO  06:02:26 Token Is Generated!
+INFO  09:16:20 Application started. Press Ctrl+C to shut down.
+INFO  09:16:20 Application started. Press Ctrl+C to shut down.
+INFO  09:16:20 Hosting environment: Development
+INFO  09:16:20 Hosting environment: Development
+INFO  09:16:20 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+INFO  09:16:20 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+WARN  09:21:13 Failed to determine the https port for redirect.
+WARN  09:21:13 Failed to determine the https port for redirect.
+INFO  09:21:15 Login initiated!
+INFO  09:21:15 Login initiated!
+INFO  09:21:15 Validating the User!
+INFO  09:21:15 Validating the User!
+INFO  09:21:15 Token Is Generated!
+INFO  09:21:15 Token Is Generated!
+INFO  09:26:29 Login initiated!
+INFO  09:26:29 Validating the User!
+INFO  09:26:29 Token Is Generated!
+INFO  09:30:07 Login initiated!
+INFO  09:30:07 Validating the User!
+INFO  09:30:07 Token Is Generated!
+INFO  09:31:00 Login initiated!
+INFO  09:31:00 Validating the User!
+INFO  09:31:00 Token Is Generated!
+INFO  09:32:41 Login initiated!
+INFO  09:32:41 Validating the User!
+INFO  09:32:41 Token Is Generated!
+INFO  09:49:07 Login initiated!
+INFO  09:49:07 Validating the User!
+INFO  09:49:07 Token Is Generated!

@@ -1,0 +1,103 @@
+﻿
+@model Return_Order_Portal.Models.ProcessRequest;
+@{ ViewData["Title"] = "Form"; }
+
+<!Doctype html>
+<html>
+<head>
+
+</head>
+<body>
+    <h2>Enter Details...</h2>
+    @using (Html.BeginForm("ComponentProcessing", "User", FormMethod.Post))
+    {
+        //this is for create form tag
+@Html.AntiForgeryToken() // this is for prevent CSRF attack
+@Html.ValidationSummary(true) if (@ViewBag.Message != null)
+                {
+
+<div style="border:1px solid red">
+    @ViewBag.Message
+</div> }
+
+<table>
+    <tr>
+        <td>@Html.LabelFor(a => a.Name)</td>
+        <td>@Html.TextBoxFor(a => a.Name, new { required = "" })</td>
+        <td>@Html.ValidationMessageFor(a => a.Name)</td>
+    </tr>
+
+
+    <tr>
+        <td>@Html.LabelFor(a => a.ContactNumber)</td>
+        <td>@Html.TextBoxFor(a => a.ContactNumber, new { required = "" })</td>
+        <td>@Html.ValidationMessageFor(a => a.ContactNumber)</td>
+    </tr>
+
+
+    <tr>
+        <td>@Html.LabelFor(a => a.CreditCardNumber)</td>
+        <td>@Html.TextBoxFor(a => a.CreditCardNumber, new { required = "", @minLength = "12" })</td>
+        <td>@Html.ValidationMessageFor(a => a.CreditCardNumber)</td>
+    </tr>
+
+    <tr>
+        <td>@Html.LabelFor(a => a.CreditLimit)</td>
+        <td>@Html.TextBoxFor(a => a.CreditLimit, new { required = ""})</td>
+        <td>@Html.ValidationMessageFor(a => a.CreditLimit)</td>
+    </tr>
+
+    <tr>
+        <td>@Html.LabelFor(a => a.ComponentType)</td>
+        <td>
+            @Html.DropDownListFor(a => a.ComponentType,
+                                          new SelectList(new List<string> { "Integral", "Accessory" }),
+                                          "Select Component Type", new
+                                          {
+                                              @id = "type",
+                                              @class = "form-control",
+                                              required = "",
+                                              onchange = "myGeeks()"
+                                          })
+        </td>
+        <td>@Html.ValidationMessageFor(a => a.ComponentType)</td>
+    </tr>
+
+
+    <tr>
+        <td>@Html.LabelFor(a => a.ComponentName)</td>
+        <td>@Html.TextBoxFor(a => a.ComponentName)</td>
+        <td>@Html.ValidationMessageFor(a => a.ComponentName)</td>
+    </tr>
+
+    <tr>
+        <td>@Html.LabelFor(a => a.Quantity)</td>
+        <td>@Html.TextBoxFor(a => a.Quantity)</td>
+        <td>@Html.ValidationMessageFor(a => a.Quantity)</td>
+    </tr>
+
+    <tr>
+        <td>@Html.LabelFor(a => a.IsPriorityRequest)</td>
+        <td>@Html.CheckBoxFor(a => a.IsPriorityRequest, new { @id = "priority", disabled = "disabled" })</td>
+
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <input type="submit" value="Submit" />
+        </td>
+        <td></td>
+    </tr>
+</table>}
+  <script type="text/javascript">function myGeeks() {
+            var e = document.getElementById("type");
+            var strUser = e.options[e.selectedIndex].text;
+            if (strUser == "Integral")
+                var g = document.getElementById("priority").disabled
+                    = false;
+            else
+                var g = document.getElementById("priority").disabled
+                    = true;
+        }</script>  
+</body>
+</html>

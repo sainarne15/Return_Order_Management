@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Return_Order_Portal.Models.Login
+@{ ViewBag.Title = "login"; }
+
+
+
+
+<h2>login</h2>
+@using (Html.BeginForm("Authentication", "User", FormMethod.Post))
+{
+    //this is for create form tag
+@Html.AntiForgeryToken() // this is for prevent CSRF attack
+@Html.ValidationSummary(true)
+
+
+                <table>
+                    <tr>
+                        <td>@Html.LabelFor(a => a.Username)</td>
+                        <td>@Html.TextBoxFor(a => a.Username)</td>
+                        <td>@Html.ValidationMessageFor(a => a.Username)</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            @Html.LabelFor(a => a.Password)
+                        </td>
+                        <td>
+                            @Html.PasswordFor(a => a.Password)
+                        </td>
+                        <td>
+                            @Html.ValidationMessageFor(a => a.Password)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="submit" value="Login" />
+                        </td>
+                        <td></td>
+                    </tr>
+                </table>}
+@if (ViewBag.Message != null)
+{
+<script type="text/javascript">
+
+            window.onload = function () {
+                alert("@ViewBag.Message");
+            };
+</script>
+}

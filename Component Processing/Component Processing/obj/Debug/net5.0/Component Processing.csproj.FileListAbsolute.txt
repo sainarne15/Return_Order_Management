@@ -1,0 +1,7 @@
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.csproj.AssemblyReference.cache
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.AssemblyInfoInputs.cache
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.AssemblyInfo.cs
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.csproj.CoreCompileInputs.cache
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HARSH GOYAL\source\repos\Component Processing\Component Processing\obj\Debug\net5.0\Component Processing.MvcApplicationPartsAssemblyInfo.cache

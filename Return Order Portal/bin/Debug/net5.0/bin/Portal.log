@@ -1,0 +1,1173 @@
+INFO  12:05:21 Application started. Press Ctrl+C to shut down.
+INFO  12:05:21 Application started. Press Ctrl+C to shut down.
+INFO  12:05:21 Hosting environment: Development
+INFO  12:05:21 Hosting environment: Development
+INFO  12:05:21 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:05:21 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:05:22 Login initiated
+INFO  12:05:33 Authentication initiated
+INFO  12:05:40 Token recieved From Authentication MicroService
+INFO  12:05:40 Authentication Successful And Login Completed
+INFO  12:06:11 ComponentProcessingMicroservice initiated
+INFO  12:06:11 Token added to header
+INFO  12:06:11 Component Microservice uri invoked http://52.154.250.90/api
+INFO  12:06:12 Response Received From Component Microservice
+INFO  12:06:13 Exception In Component ActionResult
+INFO  12:07:24 Application started. Press Ctrl+C to shut down.
+INFO  12:07:24 Application started. Press Ctrl+C to shut down.
+INFO  12:07:24 Hosting environment: Development
+INFO  12:07:24 Hosting environment: Development
+INFO  12:07:24 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:07:24 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:07:25 Login initiated
+INFO  12:07:31 Authentication initiated
+INFO  12:07:32 Token recieved From Authentication MicroService
+INFO  12:07:32 Authentication Successful And Login Completed
+INFO  12:07:52 ComponentProcessingMicroservice initiated
+INFO  12:07:52 Token added to header
+INFO  12:07:52 Component Microservice uri invoked http://52.154.250.90/api
+INFO  12:07:52 Response Received From Component Microservice
+INFO  12:07:52 Exception In Component ActionResult
+INFO  12:08:25 Application started. Press Ctrl+C to shut down.
+INFO  12:08:25 Application started. Press Ctrl+C to shut down.
+INFO  12:08:25 Hosting environment: Development
+INFO  12:08:25 Hosting environment: Development
+INFO  12:08:25 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:08:25 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:08:26 Login initiated
+INFO  12:08:32 Authentication initiated
+INFO  12:08:32 Token recieved From Authentication MicroService
+INFO  12:08:32 Authentication Successful And Login Completed
+INFO  12:08:54 ComponentProcessingMicroservice initiated
+INFO  12:08:54 Token added to header
+INFO  12:08:54 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:10:19 Application started. Press Ctrl+C to shut down.
+INFO  09:10:19 Application started. Press Ctrl+C to shut down.
+INFO  09:10:19 Hosting environment: Development
+INFO  09:10:19 Hosting environment: Development
+INFO  09:10:19 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:10:19 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:10:20 Login initiated
+INFO  09:10:34 Authentication initiated
+INFO  09:10:37 Token recieved From Authentication MicroService
+INFO  09:10:37 Authentication Successful And Login Completed
+INFO  09:11:00 ComponentProcessingMicroservice initiated
+INFO  09:11:00 Token added to header
+INFO  09:11:00 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:22:24 Application started. Press Ctrl+C to shut down.
+INFO  09:22:24 Application started. Press Ctrl+C to shut down.
+INFO  09:22:24 Hosting environment: Development
+INFO  09:22:24 Hosting environment: Development
+INFO  09:22:24 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:22:24 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:22:25 Login initiated
+INFO  09:22:41 Authentication initiated
+INFO  09:22:42 Token recieved From Authentication MicroService
+INFO  09:22:42 Authentication Successful And Login Completed
+INFO  09:23:04 ComponentProcessingMicroservice initiated
+INFO  09:23:04 Token added to header
+INFO  09:23:04 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:23:38 Response Received From Component Microservice
+INFO  09:26:45 Application started. Press Ctrl+C to shut down.
+INFO  09:26:45 Application started. Press Ctrl+C to shut down.
+INFO  09:26:45 Hosting environment: Development
+INFO  09:26:45 Hosting environment: Development
+INFO  09:26:45 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:26:45 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:26:45 Login initiated
+INFO  09:26:57 Authentication initiated
+INFO  09:26:58 Token recieved From Authentication MicroService
+INFO  09:26:58 Authentication Successful And Login Completed
+INFO  09:27:22 ComponentProcessingMicroservice initiated
+INFO  09:27:22 Token added to header
+INFO  09:27:22 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:33:04 Application started. Press Ctrl+C to shut down.
+INFO  09:33:04 Application started. Press Ctrl+C to shut down.
+INFO  09:33:04 Hosting environment: Development
+INFO  09:33:04 Hosting environment: Development
+INFO  09:33:04 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:33:04 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:33:04 Login initiated
+INFO  09:33:12 Authentication initiated
+INFO  09:33:13 Token recieved From Authentication MicroService
+INFO  09:33:13 Authentication Successful And Login Completed
+INFO  09:33:33 ComponentProcessingMicroservice initiated
+INFO  09:33:33 Token added to header
+INFO  09:33:33 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:34:07 Response Received From Component Microservice
+INFO  09:34:57 Application started. Press Ctrl+C to shut down.
+INFO  09:34:57 Application started. Press Ctrl+C to shut down.
+INFO  09:34:57 Hosting environment: Development
+INFO  09:34:57 Hosting environment: Development
+INFO  09:34:57 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:34:57 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:34:57 Login initiated
+INFO  09:35:10 Authentication initiated
+INFO  09:35:10 Token recieved From Authentication MicroService
+INFO  09:35:10 Authentication Successful And Login Completed
+INFO  09:35:31 ComponentProcessingMicroservice initiated
+INFO  09:35:31 Token added to header
+INFO  09:35:31 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:35:32 Response Received From Component Microservice
+INFO  09:36:36 Application started. Press Ctrl+C to shut down.
+INFO  09:36:36 Application started. Press Ctrl+C to shut down.
+INFO  09:36:36 Hosting environment: Development
+INFO  09:36:36 Hosting environment: Development
+INFO  09:36:36 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:36:36 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:36:36 Login initiated
+INFO  09:36:45 Authentication initiated
+INFO  09:36:45 Token recieved From Authentication MicroService
+INFO  09:36:45 Authentication Successful And Login Completed
+INFO  09:37:04 ComponentProcessingMicroservice initiated
+INFO  09:37:04 Token added to header
+INFO  09:37:04 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:37:04 Response Received From Component Microservice
+INFO  09:38:00 Application started. Press Ctrl+C to shut down.
+INFO  09:38:00 Application started. Press Ctrl+C to shut down.
+INFO  09:38:00 Hosting environment: Development
+INFO  09:38:00 Hosting environment: Development
+INFO  09:38:00 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:38:00 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:38:00 Login initiated
+INFO  09:38:10 Authentication initiated
+INFO  09:38:10 Token recieved From Authentication MicroService
+INFO  09:38:10 Authentication Successful And Login Completed
+INFO  09:38:30 ComponentProcessingMicroservice initiated
+INFO  09:38:30 Token added to header
+INFO  09:38:30 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:38:30 Response Received From Component Microservice
+INFO  09:40:43 Application started. Press Ctrl+C to shut down.
+INFO  09:40:43 Application started. Press Ctrl+C to shut down.
+INFO  09:40:43 Hosting environment: Development
+INFO  09:40:43 Hosting environment: Development
+INFO  09:40:43 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:40:43 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:40:43 Login initiated
+INFO  09:41:28 Authentication initiated
+INFO  09:41:29 Token recieved From Authentication MicroService
+INFO  09:41:29 Authentication Successful And Login Completed
+INFO  09:41:49 ComponentProcessingMicroservice initiated
+INFO  09:41:49 Token added to header
+INFO  09:41:49 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:41:49 Response Received From Component Microservice
+INFO  09:55:25 Application started. Press Ctrl+C to shut down.
+INFO  09:55:25 Application started. Press Ctrl+C to shut down.
+INFO  09:55:25 Hosting environment: Development
+INFO  09:55:25 Hosting environment: Development
+INFO  09:55:25 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:55:25 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:55:25 Login initiated
+INFO  09:55:32 Authentication initiated
+INFO  09:55:32 Token recieved From Authentication MicroService
+INFO  09:55:32 Authentication Successful And Login Completed
+INFO  09:55:52 ComponentProcessingMicroservice initiated
+INFO  09:55:52 Token added to header
+INFO  09:55:52 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:55:52 Response Received From Component Microservice
+INFO  09:57:57 Application started. Press Ctrl+C to shut down.
+INFO  09:57:57 Application started. Press Ctrl+C to shut down.
+INFO  09:57:57 Hosting environment: Development
+INFO  09:57:57 Hosting environment: Development
+INFO  09:57:57 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:57:57 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  09:57:57 Login initiated
+INFO  09:58:03 Authentication initiated
+INFO  09:58:04 Token recieved From Authentication MicroService
+INFO  09:58:04 Authentication Successful And Login Completed
+INFO  09:58:21 ComponentProcessingMicroservice initiated
+INFO  09:58:21 Token added to header
+INFO  09:58:21 Component Microservice uri invoked http://52.154.250.90/api
+INFO  09:58:21 Response Received From Component Microservice
+INFO  10:00:38 Application started. Press Ctrl+C to shut down.
+INFO  10:00:38 Application started. Press Ctrl+C to shut down.
+INFO  10:00:38 Hosting environment: Development
+INFO  10:00:38 Hosting environment: Development
+INFO  10:00:38 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:00:38 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:00:38 Login initiated
+INFO  10:00:46 Authentication initiated
+INFO  10:00:46 Token recieved From Authentication MicroService
+INFO  10:00:46 Authentication Successful And Login Completed
+INFO  10:01:05 ComponentProcessingMicroservice initiated
+INFO  10:01:05 Token added to header
+INFO  10:01:05 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:01:05 Response Received From Component Microservice
+INFO  10:08:02 Application started. Press Ctrl+C to shut down.
+INFO  10:08:02 Application started. Press Ctrl+C to shut down.
+INFO  10:08:02 Hosting environment: Development
+INFO  10:08:02 Hosting environment: Development
+INFO  10:08:02 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:08:02 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:08:03 Login initiated
+INFO  10:08:11 Authentication initiated
+INFO  10:08:11 Token recieved From Authentication MicroService
+INFO  10:08:11 Authentication Successful And Login Completed
+INFO  10:08:29 ComponentProcessingMicroservice initiated
+INFO  10:08:29 Token added to header
+INFO  10:08:29 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:08:29 Response Received From Component Microservice
+INFO  10:10:01 Application started. Press Ctrl+C to shut down.
+INFO  10:10:01 Application started. Press Ctrl+C to shut down.
+INFO  10:10:01 Hosting environment: Development
+INFO  10:10:01 Hosting environment: Development
+INFO  10:10:01 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:10:01 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:10:01 Login initiated
+INFO  10:10:09 Authentication initiated
+INFO  10:10:09 Token recieved From Authentication MicroService
+INFO  10:10:09 Authentication Successful And Login Completed
+INFO  10:10:31 ComponentProcessingMicroservice initiated
+INFO  10:10:31 Token added to header
+INFO  10:10:31 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:10:31 Response Received From Component Microservice
+INFO  10:12:41 Application started. Press Ctrl+C to shut down.
+INFO  10:12:41 Application started. Press Ctrl+C to shut down.
+INFO  10:12:41 Hosting environment: Development
+INFO  10:12:41 Hosting environment: Development
+INFO  10:12:41 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:12:41 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:12:41 Login initiated
+INFO  10:12:53 Authentication initiated
+INFO  10:12:54 Token recieved From Authentication MicroService
+INFO  10:12:54 Authentication Successful And Login Completed
+INFO  10:13:19 ComponentProcessingMicroservice initiated
+INFO  10:13:19 Token added to header
+INFO  10:13:19 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:13:19 Response Received From Component Microservice
+INFO  10:17:05 Application started. Press Ctrl+C to shut down.
+INFO  10:17:05 Application started. Press Ctrl+C to shut down.
+INFO  10:17:05 Hosting environment: Development
+INFO  10:17:05 Hosting environment: Development
+INFO  10:17:05 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:17:05 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:17:05 Login initiated
+INFO  10:17:14 Authentication initiated
+INFO  10:17:14 Token recieved From Authentication MicroService
+INFO  10:17:14 Authentication Successful And Login Completed
+INFO  10:17:38 ComponentProcessingMicroservice initiated
+INFO  10:17:38 Token added to header
+INFO  10:17:38 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:17:38 Response Received From Component Microservice
+INFO  10:17:42 Payment Confirmation initiated
+INFO  10:20:02 Application started. Press Ctrl+C to shut down.
+INFO  10:20:02 Application started. Press Ctrl+C to shut down.
+INFO  10:20:02 Hosting environment: Development
+INFO  10:20:02 Hosting environment: Development
+INFO  10:20:02 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:20:02 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:20:02 Login initiated
+INFO  10:20:10 Authentication initiated
+INFO  10:20:11 Token recieved From Authentication MicroService
+INFO  10:20:11 Authentication Successful And Login Completed
+INFO  10:20:28 ComponentProcessingMicroservice initiated
+INFO  10:20:28 Token added to header
+INFO  10:20:28 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:20:28 Response Received From Component Microservice
+INFO  10:20:33 Payment Confirmation initiated
+INFO  10:20:33 Confirmation sent to Component Microservice For Payment
+INFO  10:20:33 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:20:33 Success or failed Message received from Component Moicroservice
+INFO  10:21:42 Application started. Press Ctrl+C to shut down.
+INFO  10:21:42 Application started. Press Ctrl+C to shut down.
+INFO  10:21:42 Hosting environment: Development
+INFO  10:21:42 Hosting environment: Development
+INFO  10:21:42 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:21:42 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:21:42 Login initiated
+INFO  10:21:49 Authentication initiated
+INFO  10:21:49 Token recieved From Authentication MicroService
+INFO  10:21:49 Authentication Successful And Login Completed
+INFO  10:22:15 ComponentProcessingMicroservice initiated
+INFO  10:22:15 Token added to header
+INFO  10:22:15 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:22:15 Response Received From Component Microservice
+INFO  10:22:20 Payment Confirmation initiated
+INFO  10:22:20 Confirmation sent to Component Microservice For Payment
+INFO  10:22:20 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:22:20 Success or failed Message received from Component Moicroservice
+INFO  10:27:04 Application started. Press Ctrl+C to shut down.
+INFO  10:27:04 Application started. Press Ctrl+C to shut down.
+INFO  10:27:04 Hosting environment: Development
+INFO  10:27:04 Hosting environment: Development
+INFO  10:27:04 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:27:04 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:27:04 Login initiated
+INFO  10:27:13 Authentication initiated
+INFO  10:27:13 Token recieved From Authentication MicroService
+INFO  10:27:13 Authentication Successful And Login Completed
+INFO  10:27:30 ComponentProcessingMicroservice initiated
+INFO  10:27:30 Token added to header
+INFO  10:27:30 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:27:30 Response Received From Component Microservice
+INFO  10:27:33 Payment Confirmation initiated
+INFO  10:27:33 Confirmation sent to Component Microservice For Payment
+INFO  10:28:23 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:28:36 Success or failed Message received from Component Moicroservice
+INFO  10:30:46 Application started. Press Ctrl+C to shut down.
+INFO  10:30:46 Application started. Press Ctrl+C to shut down.
+INFO  10:30:46 Hosting environment: Development
+INFO  10:30:46 Hosting environment: Development
+INFO  10:30:46 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:30:46 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:30:46 Login initiated
+INFO  10:30:58 Authentication initiated
+INFO  10:30:59 Token recieved From Authentication MicroService
+INFO  10:30:59 Authentication Successful And Login Completed
+INFO  10:31:18 ComponentProcessingMicroservice initiated
+INFO  10:31:18 Token added to header
+INFO  10:31:18 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:31:18 Response Received From Component Microservice
+INFO  10:31:21 Payment Confirmation initiated
+INFO  10:31:21 Confirmation sent to Component Microservice For Payment
+INFO  10:35:47 Application started. Press Ctrl+C to shut down.
+INFO  10:35:47 Application started. Press Ctrl+C to shut down.
+INFO  10:35:47 Hosting environment: Development
+INFO  10:35:47 Hosting environment: Development
+INFO  10:35:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:35:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:35:47 Login initiated
+INFO  10:35:55 Authentication initiated
+INFO  10:35:55 Token recieved From Authentication MicroService
+INFO  10:35:55 Authentication Successful And Login Completed
+INFO  10:36:16 ComponentProcessingMicroservice initiated
+INFO  10:36:16 Token added to header
+INFO  10:36:16 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:36:17 Response Received From Component Microservice
+INFO  10:36:23 Payment Confirmation initiated
+INFO  10:36:23 Confirmation sent to Component Microservice For Payment
+INFO  10:36:27 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:36:27 Success or failed Message received from Component Moicroservice
+INFO  10:36:27 Exception In Confirmation ActionResult
+INFO  10:37:00 Application started. Press Ctrl+C to shut down.
+INFO  10:37:00 Application started. Press Ctrl+C to shut down.
+INFO  10:37:00 Hosting environment: Development
+INFO  10:37:00 Hosting environment: Development
+INFO  10:37:00 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:37:00 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:37:00 Login initiated
+INFO  10:37:07 Authentication initiated
+INFO  10:37:07 Token recieved From Authentication MicroService
+INFO  10:37:07 Authentication Successful And Login Completed
+INFO  10:37:25 ComponentProcessingMicroservice initiated
+INFO  10:37:25 Token added to header
+INFO  10:37:25 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:37:26 Response Received From Component Microservice
+INFO  10:37:31 Payment Confirmation initiated
+INFO  10:37:31 Confirmation sent to Component Microservice For Payment
+INFO  10:38:34 Application started. Press Ctrl+C to shut down.
+INFO  10:38:34 Application started. Press Ctrl+C to shut down.
+INFO  10:38:34 Hosting environment: Development
+INFO  10:38:34 Hosting environment: Development
+INFO  10:38:34 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:38:34 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:38:34 Login initiated
+INFO  10:38:41 Authentication initiated
+INFO  10:38:41 Token recieved From Authentication MicroService
+INFO  10:38:41 Authentication Successful And Login Completed
+INFO  10:38:58 ComponentProcessingMicroservice initiated
+INFO  10:38:58 Token added to header
+INFO  10:38:58 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:38:58 Response Received From Component Microservice
+INFO  10:38:58 ComponentProcessingMicroservice initiated
+INFO  10:38:58 Token added to header
+INFO  10:38:58 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:38:58 Response Received From Component Microservice
+INFO  10:38:59 ComponentProcessingMicroservice initiated
+INFO  10:38:59 Token added to header
+INFO  10:38:59 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:38:59 Response Received From Component Microservice
+INFO  10:39:03 Payment Confirmation initiated
+INFO  10:39:03 Confirmation sent to Component Microservice For Payment
+INFO  10:40:14 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:42:18 Application started. Press Ctrl+C to shut down.
+INFO  10:42:18 Application started. Press Ctrl+C to shut down.
+INFO  10:42:18 Hosting environment: Development
+INFO  10:42:18 Hosting environment: Development
+INFO  10:42:18 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:42:18 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:42:18 Login initiated
+INFO  10:42:25 Authentication initiated
+INFO  10:42:26 Token recieved From Authentication MicroService
+INFO  10:42:26 Authentication Successful And Login Completed
+INFO  10:42:46 ComponentProcessingMicroservice initiated
+INFO  10:42:46 Token added to header
+INFO  10:42:46 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:42:46 Response Received From Component Microservice
+INFO  10:42:50 Payment Confirmation initiated
+INFO  10:42:50 Confirmation sent to Component Microservice For Payment
+INFO  10:46:49 Application started. Press Ctrl+C to shut down.
+INFO  10:46:49 Application started. Press Ctrl+C to shut down.
+INFO  10:46:49 Hosting environment: Development
+INFO  10:46:49 Hosting environment: Development
+INFO  10:46:49 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:46:49 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:46:50 Login initiated
+INFO  10:47:10 Authentication initiated
+INFO  10:47:11 Token recieved From Authentication MicroService
+INFO  10:47:11 Authentication Successful And Login Completed
+INFO  10:47:29 ComponentProcessingMicroservice initiated
+INFO  10:47:29 Token added to header
+INFO  10:47:29 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:51:48 Application started. Press Ctrl+C to shut down.
+INFO  10:51:48 Application started. Press Ctrl+C to shut down.
+INFO  10:51:48 Hosting environment: Development
+INFO  10:51:48 Hosting environment: Development
+INFO  10:51:48 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:51:48 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  10:51:48 Login initiated
+INFO  10:51:56 Authentication initiated
+INFO  10:51:56 Token recieved From Authentication MicroService
+INFO  10:51:56 Authentication Successful And Login Completed
+INFO  10:52:14 ComponentProcessingMicroservice initiated
+INFO  10:52:14 Token added to header
+INFO  10:52:14 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:52:21 Response Received From Component Microservice
+INFO  10:52:24 Payment Confirmation initiated
+INFO  10:52:24 Confirmation sent to Component Microservice For Payment
+INFO  10:52:28 Component Microservice uri invoked http://52.154.250.90/api
+INFO  10:52:28 Success or failed Message received from Component Moicroservice
+INFO  10:52:28 Respose added to db 
+INFO  11:25:14 Application started. Press Ctrl+C to shut down.
+INFO  11:25:14 Application started. Press Ctrl+C to shut down.
+INFO  11:25:14 Hosting environment: Development
+INFO  11:25:14 Hosting environment: Development
+INFO  11:25:14 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:25:14 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:25:15 Login initiated
+INFO  11:25:23 Authentication initiated
+INFO  11:25:25 Token recieved From Authentication MicroService
+INFO  11:25:25 Authentication Successful And Login Completed
+INFO  11:25:44 ComponentProcessingMicroservice initiated
+INFO  11:25:44 Token added to header
+INFO  11:25:44 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:25:55 Response Received From Component Microservice
+INFO  11:26:16 Payment Confirmation initiated
+INFO  11:26:16 Confirmation sent to Component Microservice For Payment
+INFO  11:26:20 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:26:20 Success or failed Message received from Component Moicroservice
+INFO  11:26:20 Respose added to db 
+INFO  11:29:17 Application started. Press Ctrl+C to shut down.
+INFO  11:29:17 Application started. Press Ctrl+C to shut down.
+INFO  11:29:17 Hosting environment: Development
+INFO  11:29:17 Hosting environment: Development
+INFO  11:29:17 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:29:17 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:29:18 Login initiated
+INFO  11:30:29 Authentication initiated
+INFO  11:30:32 Token recieved From Authentication MicroService
+INFO  11:30:32 Authentication Successful And Login Completed
+INFO  11:30:52 ComponentProcessingMicroservice initiated
+INFO  11:30:52 Token added to header
+INFO  11:30:52 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:30:57 Response Received From Component Microservice
+INFO  11:33:53 Payment Confirmation initiated
+INFO  11:33:53 Confirmation sent to Component Microservice For Payment
+INFO  11:33:55 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:33:56 Exception In Confirmation ActionResult
+INFO  11:39:11 Application started. Press Ctrl+C to shut down.
+INFO  11:39:11 Application started. Press Ctrl+C to shut down.
+INFO  11:39:11 Hosting environment: Development
+INFO  11:39:11 Hosting environment: Development
+INFO  11:39:11 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:39:11 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:39:11 Login initiated
+INFO  11:39:18 Authentication initiated
+INFO  11:39:19 Token recieved From Authentication MicroService
+INFO  11:39:19 Authentication Successful And Login Completed
+INFO  11:39:34 ComponentProcessingMicroservice initiated
+INFO  11:39:34 Token added to header
+INFO  11:39:34 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:39:37 Response Received From Component Microservice
+INFO  11:39:47 Payment Confirmation initiated
+INFO  11:39:47 Confirmation sent to Component Microservice For Payment
+INFO  11:39:49 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:39:49 Exception In Confirmation ActionResult
+INFO  11:39:52 Payment Confirmation initiated
+INFO  11:39:52 Confirmation sent to Component Microservice For Payment
+INFO  11:40:04 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:40:35 Application started. Press Ctrl+C to shut down.
+INFO  11:40:35 Application started. Press Ctrl+C to shut down.
+INFO  11:40:35 Hosting environment: Development
+INFO  11:40:35 Hosting environment: Development
+INFO  11:40:35 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:40:35 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:40:35 Login initiated
+INFO  11:40:42 Authentication initiated
+INFO  11:40:43 Token recieved From Authentication MicroService
+INFO  11:40:43 Authentication Successful And Login Completed
+INFO  11:40:59 ComponentProcessingMicroservice initiated
+INFO  11:40:59 Token added to header
+INFO  11:40:59 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:41:04 Response Received From Component Microservice
+INFO  11:41:07 Payment Confirmation initiated
+INFO  11:41:07 Confirmation sent to Component Microservice For Payment
+INFO  11:41:11 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:41:11 Success or failed Message received from Component Moicroservice
+INFO  11:41:11 Respose added to db 
+INFO  11:43:19 Application started. Press Ctrl+C to shut down.
+INFO  11:43:19 Application started. Press Ctrl+C to shut down.
+INFO  11:43:19 Hosting environment: Development
+INFO  11:43:19 Hosting environment: Development
+INFO  11:43:19 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:43:19 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:43:20 Login initiated
+INFO  11:43:28 Authentication initiated
+INFO  11:43:28 Token recieved From Authentication MicroService
+INFO  11:43:28 Authentication Successful And Login Completed
+INFO  11:43:52 ComponentProcessingMicroservice initiated
+INFO  11:43:52 Token added to header
+INFO  11:43:52 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:43:56 Response Received From Component Microservice
+INFO  11:44:12 Payment Confirmation initiated
+INFO  11:44:12 Confirmation sent to Component Microservice For Payment
+INFO  11:44:27 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:44:27 Exception In Confirmation ActionResult
+INFO  11:44:56 Application started. Press Ctrl+C to shut down.
+INFO  11:44:56 Application started. Press Ctrl+C to shut down.
+INFO  11:44:56 Hosting environment: Development
+INFO  11:44:56 Hosting environment: Development
+INFO  11:44:56 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:44:56 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:44:57 Login initiated
+INFO  11:45:06 Authentication initiated
+INFO  11:45:06 Token recieved From Authentication MicroService
+INFO  11:45:06 Authentication Successful And Login Completed
+INFO  11:45:24 ComponentProcessingMicroservice initiated
+INFO  11:45:24 Token added to header
+INFO  11:45:24 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:45:29 Response Received From Component Microservice
+INFO  11:45:53 Payment Confirmation initiated
+INFO  11:46:22 Confirmation sent to Component Microservice For Payment
+INFO  11:47:54 Application started. Press Ctrl+C to shut down.
+INFO  11:47:54 Application started. Press Ctrl+C to shut down.
+INFO  11:47:54 Hosting environment: Development
+INFO  11:47:54 Hosting environment: Development
+INFO  11:47:54 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:47:54 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:47:54 Login initiated
+INFO  11:48:08 Authentication initiated
+INFO  11:48:09 Token recieved From Authentication MicroService
+INFO  11:48:09 Authentication Successful And Login Completed
+INFO  11:48:32 ComponentProcessingMicroservice initiated
+INFO  11:48:32 Token added to header
+INFO  11:48:32 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:48:32 Response Received From Component Microservice
+INFO  11:48:42 Payment Confirmation initiated
+INFO  11:48:42 Confirmation sent to Component Microservice For Payment
+INFO  11:48:42 Component Microservice uri invoked http://52.154.250.90/api
+INFO  11:48:42 Success or failed Message received from Component Moicroservice
+INFO  11:48:42 Respose added to db 
+INFO  11:51:47 Application started. Press Ctrl+C to shut down.
+INFO  11:51:47 Application started. Press Ctrl+C to shut down.
+INFO  11:51:47 Hosting environment: Development
+INFO  11:51:47 Hosting environment: Development
+INFO  11:51:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:51:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:51:47 Login initiated
+INFO  11:51:53 Authentication initiated
+INFO  11:51:54 Token recieved From Authentication MicroService
+INFO  11:51:54 Authentication Successful And Login Completed
+INFO  11:52:18 ComponentProcessingMicroservice initiated
+INFO  11:52:18 Token added to header
+INFO  11:52:18 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/GetResponse
+INFO  11:52:18 Response Received From Component Microservice
+INFO  11:52:22 Payment Confirmation initiated
+INFO  11:52:22 Confirmation sent to Component Microservice For Payment
+INFO  11:52:22 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  11:52:22 Success or failed Message received from Component Moicroservice
+INFO  11:52:22 Respose added to db 
+ERROR 11:52:23 Failed executing DbCommand (461ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 11:52:23 Failed executing DbCommand (461ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 11:52:24 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f841816f-c06b-4e3e-be8c-37545d5ceb09
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f841816f-c06b-4e3e-be8c-37545d5ceb09
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR 11:52:24 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f841816f-c06b-4e3e-be8c-37545d5ceb09
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f841816f-c06b-4e3e-be8c-37545d5ceb09
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+INFO  11:52:24 Exception In Confirmation ActionResult
+INFO  11:52:47 Application started. Press Ctrl+C to shut down.
+INFO  11:52:47 Application started. Press Ctrl+C to shut down.
+INFO  11:52:47 Hosting environment: Development
+INFO  11:52:47 Hosting environment: Development
+INFO  11:52:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:52:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:52:47 Login initiated
+INFO  11:52:54 Authentication initiated
+INFO  11:52:54 Token recieved From Authentication MicroService
+INFO  11:52:54 Authentication Successful And Login Completed
+INFO  11:53:13 ComponentProcessingMicroservice initiated
+INFO  11:53:13 Token added to header
+INFO  11:53:13 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/GetResponse
+INFO  11:53:13 Response Received From Component Microservice
+INFO  11:53:18 Payment Confirmation initiated
+INFO  11:53:18 Confirmation sent to Component Microservice For Payment
+INFO  11:53:18 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  11:53:18 Success or failed Message received from Component Moicroservice
+INFO  11:53:27 Respose added to db 
+ERROR 11:53:51 Failed executing DbCommand (21ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 11:53:51 Failed executing DbCommand (21ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 11:53:51 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:8b4c49b9-0fd0-4770-b019-342b69e4ad53
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:8b4c49b9-0fd0-4770-b019-342b69e4ad53
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR 11:53:51 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:8b4c49b9-0fd0-4770-b019-342b69e4ad53
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:8b4c49b9-0fd0-4770-b019-342b69e4ad53
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+INFO  11:57:46 Application started. Press Ctrl+C to shut down.
+INFO  11:57:47 Application started. Press Ctrl+C to shut down.
+INFO  11:57:47 Hosting environment: Development
+INFO  11:57:47 Hosting environment: Development
+INFO  11:57:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:57:47 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  11:57:47 Login initiated
+INFO  11:57:56 Authentication initiated
+INFO  11:57:56 Token recieved From Authentication MicroService
+INFO  11:57:56 Authentication Successful And Login Completed
+INFO  11:58:11 ComponentProcessingMicroservice initiated
+INFO  11:58:11 Token added to header
+INFO  11:58:11 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/GetResponse
+INFO  11:58:11 Response Received From Component Microservice
+INFO  11:58:17 Payment Confirmation initiated
+INFO  11:58:17 Confirmation sent to Component Microservice For Payment
+INFO  11:58:17 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  11:58:17 Success or failed Message received from Component Moicroservice
+INFO  11:58:24 Respose added to db 
+ERROR 11:58:45 Failed executing DbCommand (23ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 11:58:45 Failed executing DbCommand (23ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 11:58:45 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:1dcec0d9-34c3-4103-8ef4-3654d9812119
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:1dcec0d9-34c3-4103-8ef4-3654d9812119
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR 11:58:45 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:1dcec0d9-34c3-4103-8ef4-3654d9812119
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'ProcessDb' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:1dcec0d9-34c3-4103-8ef4-3654d9812119
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+INFO  12:03:45 Application started. Press Ctrl+C to shut down.
+INFO  12:03:45 Application started. Press Ctrl+C to shut down.
+INFO  12:03:45 Hosting environment: Development
+INFO  12:03:45 Hosting environment: Development
+INFO  12:03:45 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:03:45 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:03:45 Login initiated
+INFO  12:03:53 Authentication initiated
+INFO  12:03:53 Token recieved From Authentication MicroService
+INFO  12:03:53 Authentication Successful And Login Completed
+INFO  12:04:12 ComponentProcessingMicroservice initiated
+INFO  12:04:12 Token added to header
+INFO  12:04:12 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/GetResponse
+INFO  12:04:13 Response Received From Component Microservice
+INFO  12:04:19 Payment Confirmation initiated
+INFO  12:04:19 Confirmation sent to Component Microservice For Payment
+INFO  12:04:19 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  12:04:19 Success or failed Message received from Component Moicroservice
+INFO  12:04:24 Respose added to db 
+INFO  12:19:00 Application started. Press Ctrl+C to shut down.
+INFO  12:19:00 Application started. Press Ctrl+C to shut down.
+INFO  12:19:00 Hosting environment: Development
+INFO  12:19:00 Hosting environment: Development
+INFO  12:19:00 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:19:00 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:19:02 Login initiated
+INFO  12:19:13 Authentication initiated
+INFO  12:19:15 Token recieved From Authentication MicroService
+INFO  12:19:15 Authentication Successful And Login Completed
+INFO  12:19:40 ComponentProcessingMicroservice initiated
+INFO  12:19:40 Token added to header
+INFO  12:19:40 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/GetResponse
+INFO  12:19:41 Response Received From Component Microservice
+INFO  12:20:02 Payment Confirmation initiated
+INFO  12:20:02 Confirmation sent to Component Microservice For Payment
+INFO  12:20:02 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  12:20:02 Success or failed Message received from Component Moicroservice
+INFO  12:20:02 Respose added to db 
+INFO  12:50:14 Application started. Press Ctrl+C to shut down.
+INFO  12:50:14 Application started. Press Ctrl+C to shut down.
+INFO  12:50:14 Hosting environment: Development
+INFO  12:50:14 Hosting environment: Development
+INFO  12:50:14 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:50:14 Content root path: F:\VsFilesSai\Return-order-Management\Return Order Portal
+INFO  12:50:15 Login initiated
+INFO  12:50:25 Authentication initiated
+INFO  12:50:27 Token recieved From Authentication MicroService
+INFO  12:50:27 Authentication Successful And Login Completed
+INFO  12:50:55 ComponentProcessingMicroservice initiated
+INFO  12:50:55 Token added to header
+INFO  12:50:55 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/GetResponse
+INFO  12:50:58 Response Received From Component Microservice
+INFO  12:51:13 Payment Confirmation initiated
+INFO  12:51:13 Confirmation sent to Component Microservice For Payment
+INFO  12:51:13 Payment Confirmation initiated
+INFO  12:51:13 Confirmation sent to Component Microservice For Payment
+INFO  12:51:16 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  12:51:16 Success or failed Message received from Component Moicroservice
+INFO  12:51:16 Respose added to db 
+INFO  12:51:16 Component Microservice uri invoked https://localhost:44308/api/ComponentProcessing/CompleteProcessing
+INFO  12:51:16 Success or failed Message received from Component Moicroservice
+INFO  12:51:16 Respose added to db 
+ERROR 12:51:17 Failed executing DbCommand (1,032ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 12:51:17 Failed executing DbCommand (1,032ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [ProcessDb] ([RequestId], [DateOfDelivery], [PackagingAndDeliveryCharge], [ProcessingCharge])
+VALUES (@p0, @p1, @p2, @p3);
+ERROR 12:51:18 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_ProcessDb'. Cannot insert duplicate key in object 'dbo.ProcessDb'. The duplicate key value is (3).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:51630f20-b681-4ab0-b55b-8e61981a564d
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_ProcessDb'. Cannot insert duplicate key in object 'dbo.ProcessDb'. The duplicate key value is (3).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:51630f20-b681-4ab0-b55b-8e61981a564d
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR 12:51:18 An exception occurred in the database while saving changes for context type 'Return_Order_Portal.DataContext.ProcessContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_ProcessDb'. Cannot insert duplicate key in object 'dbo.ProcessDb'. The duplicate key value is (3).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:51630f20-b681-4ab0-b55b-8e61981a564d
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of PRIMARY KEY constraint 'PK_ProcessDb'. Cannot insert duplicate key in object 'dbo.ProcessDb'. The duplicate key value is (3).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:51630f20-b681-4ab0-b55b-8e61981a564d
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+INFO  12:51:19 Exception In Confirmation ActionResult
