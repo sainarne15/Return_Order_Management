@@ -2,7 +2,7 @@
 
 ### POD Members
 
-Name	    		Employee Id		Contribution
+Name	    		Employee ID		Contribution
 -------------------------------------------------------------------------------------------------------------------------------------------
 Harsh Goyal		907360		Component Microservice and Return Order Portal (Front – End)
 Narne Lakshmi Narasimha Sai	905256		Authorization Microservice and Return Order Portal (Functionality)
@@ -13,7 +13,7 @@ Vishesh Sharma		907373		Payment Microservice
 ---
 **##OBJECTIVE##**
 A leading Supply chain Management Organization wants to automate the return orders, by classifying them to repair or replacement.
-Repair is for all main or integral part of their product. Replacement is for accessories. 
+Repair is for all main or integral parts of their product. Replacement is for accessories. 
 
 
 ## **MICRO SERVICES FUNCTIONALITY**
@@ -34,7 +34,7 @@ Packaging and Delivery Microservice:
 2. Provide the expected date of delivery.
 
 Payment Microservice:
-1. Gets the processing charge and the Credit card detail as input. Deducts the amount and provides the result message if the deduction succeeded or not
+1. Gets the processing charge and the Credit card details as input. Deducts the amount and provides the result message if the deduction succeeded or not
 
 Authorization Microservice:
 1. This microservice is used with anonymous access to Generate JWT
@@ -42,7 +42,7 @@ Authorization Microservice:
 Return Order Portal:
 1. Login 
 
-2. Provide detail for Return order 
+2. Provide details for Return order 
 
 3. View the processing detail 
 
@@ -56,7 +56,7 @@ Return Order Portal:
 
 Step 1: Run all the microservices
 Step 2: Run the Return Order Portal.
-Step 3: Enter Login Details to authorise user and press login.
+Step 3: Enter Login Details to authorise the user and press login.
 Step 4: Enter Component Details, Name, Contact Number, Credit Card Number, etc. and press submit.
 Step 5: Verify the process response details and confirm the Request.
-Step 6: request is confirmed and amount is deducted from card.
+Step 6: The request is confirmed and the amount is deducted from the card.
